@@ -1,3 +1,4 @@
-# new project
-thhis project created by local system.
+# New project
+
+This project created by local system.
 created by ishu
